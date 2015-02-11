@@ -1,0 +1,27 @@
+{
+  "name": "gcode-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "isosurface": "^1.0.0",
+    "mesh-viewer": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mccarthy527/gcode-render.git"
+  },
+  "author": "Brian McCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mccarthy527/gcode-render/issues"
+  },
+  "homepage": "https://github.com/mccarthy527/gcode-render"
+}
